@@ -147,3 +147,28 @@ The tab filter also needed careful thought: it had to work as a proper `role="ta
 ## Contact
 
 Submitted to: [pythonsupport@fossee.in](mailto:pythonsupport@fossee.in)
+
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+![Home 2](screenshots/home%20(2).png)
+![Home 3](screenshots/home%20(3).png)
+![Home 4](screenshots/home%20(4).png)
+![Home 5](screenshots/home%20(5).png)
+
+### Workshops Page
+![Workshops](screenshots/workshop.png)
+![Workshops 2](screenshots/workshop%20(2).png)
+![Workshops 3](screenshots/workshop%20(3).png)
+![Workshops 4](screenshots/workshop%20(4).png)
+
+### Workshop Booking
+![Booking](screenshots/workshop%20booking.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+![Dashboard 2](screenshots/dashboard%20(2).png)
+![Dashboard 3](screenshots/dashboard%20(3).png)
+
