@@ -7,7 +7,7 @@ Original Django project: [github.com/FOSSEE/workshop_booking](https://github.com
 
 ## Live Demo
 
-> Deploy to Vercel or Netlify and paste your URL here after `npm run build`.
+> https://fossee-workshop-booking-sigma.vercel.app
 
 ---
 
